@@ -35,7 +35,6 @@
   <groupId>${groupId}</groupId>
   <artifactId>${artifactId}</artifactId>
   <version>${version}</version>
-  <name>Java Basics</name>
 
   <scm>
     <connection>scm:git:https://github.com/khmarbaise/${artifactId}.git</connection>
