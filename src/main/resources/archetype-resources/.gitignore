@@ -2,7 +2,5 @@
 .classpath
 .project
 target
-test-output
 .idea
 *.iml
-/.vscode/
